@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Lamjed 👋
 
-<!--
-**lamjedgaidi/lamjedgaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from 🇹🇳 Tunisia, building delivery and e-commerce platforms.
 
-Here are some ideas to get you started:
+#### 🛠 Currently working on
+- **intigo-net / EnaGo** — delivery platform (mobile app, partner portal, plugins)
+- **Shopify public-app integrations** — OAuth, configuration, pricing model
+- **arnisto / qrapps-lovixa** — QR-based product experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧰 Tech I work with
+`Node.js` · `TypeScript` · `React` · `React Native` · `Next.js` · `PostgreSQL` · `Docker` · `Cloudflare`
+
+#### 🔗 Other accounts
+- My second GitHub account: [@arnisto](https://github.com/arnisto)
+
+#### 📫 Contact
+- ✉️ lamjed.gaidi072@gmail.com
